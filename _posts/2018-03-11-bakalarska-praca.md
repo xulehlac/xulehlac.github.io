@@ -4,6 +4,8 @@ title: "Bakalárska Práca"
 date: 2018-03-11
 ---
 
+<p> V predošlých blogoch sme išli trocha od školy, Prvý článok ťa len mal privýtať na stránku ( {{ site.baseurl }}{% link _posts/2018-03-08-vitaj-na-stranke.md %} ), v druhom som ti ukázal nejakú hudbu ( {{ site.baseurl }}{% link _posts/2018-03-09-hudba.md %} ). Teraz by som ti rád niečo povedal zo školy. Začnem teda mojou bakalárskou prácou. </p>
+<br>
 <p> Neviem, či ta to bude zaujímať, ale na tejto bakalárskej práci pracujem.Zatiaľ si môžete prečítať zadanie</p>
 <br>
 
