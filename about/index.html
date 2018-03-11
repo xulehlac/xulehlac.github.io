@@ -11,9 +11,9 @@ title: Christián Ulehla
 </p>
 
   <ul>
-{% for member in site.data.predmety %}
+{% for predmet in site.data.predmety %}
   <li>
-    <a href="{{ predmety.odkaz }}">{{ predmety.názov }}</a>
+    <a href="{{ predmet.link }}">{{ predmet.name }}</a>
   </li>
 {% endfor %}
 </ul>
