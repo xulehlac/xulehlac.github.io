@@ -23,7 +23,8 @@
 	    		<ul>
 	        		<li><a href="mailto:xulehlac@stuba.sk">email</a></li>
 	        		<li><a href="https://github.com/xulehlac">github.com/xulehlac</a></li>
-				<li>Aktuálny dátum a čas: {{ site.time }}.</li>
+				<li>Aktuálny dátum: {{ site.time | date_to_long_string }}.</li>
+				<li>Stránka: {{ page.path}}</li>
 				</ul>
 			</footer>
 		</body>
