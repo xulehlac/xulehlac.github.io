@@ -3,4 +3,4 @@ layout: post
 title: "Christián Ulehla, študent, ťa víta"
 date: 2014-04-30
 ---
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Vítaj na mojej novej stránke, ktorá je vytvorená ako projekt pre predmet Webové Publikovanie. Na tomto prvom poste toho veľa neuvidíš, ale v ďalších sa dozvieš určite niečo zaujímavé.
