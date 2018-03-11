@@ -1,6 +1,19 @@
 ---
 layout: default
-title: Niečo o mne
+title: Christián Ulehla
 ---
 
 <h1>{{ page.title }}</h1>
+
+<p>
+  Som študentom Fakulty Informatiky a Informačných Technológií na Slovenskej Technickej Univerzite v Bratislave.<br>
+  Momentálne som vo štvrtom ročníku bakalárskeho štúdia. Tento semester mám tieto predmety:
+</p>
+
+  <ul>
+{% for member in site.data.predmety %}
+  <li>
+    <a href="{{ predmety.odkaz }}">{{ predmety.názov }}</a>
+  </li>
+{% endfor %}
+</ul>
