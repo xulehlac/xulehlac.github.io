@@ -4,8 +4,6 @@ title: "Druhé odovzdanie predmetu WP"
 date: 2018-03-26
 ---
 
-<h1>{{ page.title }}</h1>
-
 Druhé odovzdanie bol pdf export z xml súboru. Je to moja bakalárska práca pred odovzdaním v zimnom semestri. Neni úplna, čo vyhovovalo požadovanému rozsahu. Obohatil som ju o pár vecí (ako napríklad obrázok a iný typ rozdelenia), aby výsledné pdf vyhovovalo podmienkam zadania.
 
 Čo som použil:
