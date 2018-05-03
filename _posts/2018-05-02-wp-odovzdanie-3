@@ -1,0 +1,19 @@
+---
+layout: post
+title: "WP Odovzdanie 3"
+date: 2018-05-02
+---
+
+
+Dokumentácia k WP 3
+
+Na definovanie XML som použil DTD, ktoré vám vysvetlím na prezentácií.
+Základom XML je element presentation, ktorý je rozdelený na elementy slide.
+Každý slide môže byť buď z elementu main (čo je nadpis), alebo z elementov header a body (titul a obsah).
+Ďalšie elementy sú doplnkové, ako napríklad pre obrázok(image),list(list-point),paragraf(para) a rôzne nadpisy.
+
+Ďaľej som použil XSL, v ktorom som pre všetky tieto elementy použil transformácie. Transformoval som len do XHTML, pre ktorý som vytvoril aj css. Css je jednoduché, slidy zobrazuje do okna 
+
+pre prezentáciu. Pre posúvanie slidov som použil button.
+
+Všetko ostatné opíšem v prezentácii.
