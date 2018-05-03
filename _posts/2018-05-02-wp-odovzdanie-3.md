@@ -3,7 +3,8 @@ layout: default
 title: "WP Odovzdanie 3"
 date: 2018-05-02
 ---
-
+<h1>{{ page.title }}</h1>
+<p>{{ page.date | date_to_string }}</p>
 
 <h2>Dokumentácia k WP 3</h2>
 
